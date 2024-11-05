@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "name": "test",
+            "address": "https://sidestoreserver-u4w6.onrender.com"
+        },
+        {
+            "name": "abathingape2018",
+            "address": "https://sidestoreserver-u4w6.onrender.com"
+        }
+    ]
+}
